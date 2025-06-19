@@ -1,0 +1,19 @@
+.grid{
+    display: flex;
+    height: 450px;
+    width: 400px;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 50px;
+}
+
+.reset{
+    padding: 0.8rem;
+    width: 400px;
+    border-radius: 20px;
+    background-color: cadetblue;
+    color: white;
+    font-weight: 700;
+    font-size: large;
+   
+}

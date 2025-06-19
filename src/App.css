@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.symbol{
+    text-align: center;
+    letter-spacing: 7px;
+    height: 60px;
+    background-color: aqua;
+    line-height: 60px;
+    border-radius: 20px
+    
+;
+    
+}
+.span {
+    vertical-align: middle;
+    padding-bottom: 6px;
+
+}
